@@ -1,2 +1,6 @@
+# RICCHIUTO MICHELE 2024
 # QR-GENERATOR-READER
-With this script you can create a custom QR-Code, you can also read this
+il file "QR CODE GENERATOR.py" funziona da solo in una directory qualsiasi (es. /QR CODE GENERATOR.py)
+il file "BARCODE V2.py" funziona correttamente SOLO SE nella directory che hai scelto sono presenti i file: error.wav , ok,wav , warning.png
+
+
